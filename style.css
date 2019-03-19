@@ -1,0 +1,28 @@
+h5{
+    color: rgb(26, 64, 231)
+}
+.card-header{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: #ffffff;
+    border: 2px solid #dd2929;
+    background: #0dad15;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card-header{
+    color: #0dad15;
+    background-color: rgb(207, 128, 30);
+
+}
+.btn-primary{
+    background-color: #e011c5;
+    color: antiquewhite;
+    border-color: #e011c5;
+    border-width: 5px;
+}
